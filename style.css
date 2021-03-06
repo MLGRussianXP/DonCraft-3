@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header p{
+    font-size: 35px;
+}
+
+hr{
+    border: none;
+    background-color: black;
+    color: black;
+    height: 1px;
+}
+
+h2{
+    color: orange;
+}
+
+p{
+    color: #0B61A4;
+    font-size: 20px;
+}
+
+.donate{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
